@@ -20,6 +20,21 @@ It separates:
 
 The result is a migratable, iterable, model-agnostic framework for long-term personal AI modeling.
 
+## Who is this for?
+
+This project is for:
+
+- **Long-term creators** — writers, researchers, artists who want to preserve and evolve their thinking process
+- **Knowledge workers** — anyone whose work depends on accumulated judgment and domain expertise
+- **People who want a durable AI collaboration system** — not just chat, but a system that knows how you think
+- **People who care about preserving their judgment, style, and thinking process over time**
+
+This project is probably **not** for:
+
+- Users looking for a one-shot prompt to copy-paste
+- Users who do not want to maintain local files
+- Users who want a fully automated memory system with zero manual input
+
 ## Architecture
 
 ```text
