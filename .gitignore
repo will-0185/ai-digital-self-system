@@ -1,0 +1,44 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.bak
+*.swp
+~$*
+temp/
+tmp/
+.cache/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.crt
+*.cer
+id_rsa
+id_ed25519
+secrets.*
+credentials.*
+token.*
+*.secret
+
+# Large media
+raw-media/
+audio/
+video/
+large-pdf/
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
