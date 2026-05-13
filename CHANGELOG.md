@@ -17,3 +17,9 @@
 - **01_System_Kernel**: Rewrote Meta_Knowledge with selection principles, 3 example paradigms, candidate mechanism (EN+ZH)
 - **02_Knowledge_Creation**: Updated External_Knowledge_Archive with 3 real-world example entries (EN+ZH)
 - All content sanitized per Privacy_Boundary rules — no private records, evidence indexes, personal relationships, or unpublished works included
+
+## 2026-05-13 — Full personality templates + examples/author-public-version
+
+- **01_System_Kernel**: All 6 personality dimensions rewritten with full template content (World_View, Life_Direction, Value_Priorities, Survival_Philosophy, Decision_Making, Aesthetic_Interests) in both EN and .zh-CN.md
+- **examples/author-public-version**: Created complete sanitized example of the entire system with all 8 kernel files, system overview, prompts, knowledge archive, and evolution templates
+- All personality content is public-safe — private details abstracted, personal references removed
